@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/AntorDey/My-Leetcode-problems-slution./tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/AntorDey/My-Leetcode-problems-slution./tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/AntorDey/My-Leetcode-problems-slution./tree/master/0189-rotate-array) |
+| [0485-max-consecutive-ones](https://github.com/AntorDey/My-Leetcode-problems-slution./tree/master/0485-max-consecutive-ones) |
 | [1480-running-sum-of-1d-array](https://github.com/AntorDey/My-Leetcode-problems-slution./tree/master/1480-running-sum-of-1d-array) |
 ## Prefix Sum
 |  |
