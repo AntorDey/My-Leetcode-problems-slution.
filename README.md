@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/AntorDey/My-Leetcode-problems-slution./tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/AntorDey/My-Leetcode-problems-slution./tree/master/0231-power-of-two) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/AntorDey/My-Leetcode-problems-slution./tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/AntorDey/My-Leetcode-problems-slution./tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/AntorDey/My-Leetcode-problems-slution./tree/master/0231-power-of-two) |
 ## Two Pointers
 |  |
 | ------- |
@@ -40,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/AntorDey/My-Leetcode-problems-slution./tree/master/0977-squares-of-a-sorted-array) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/AntorDey/My-Leetcode-problems-slution./tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
