@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/AntorDey/My-Leetcode-problems-slution./tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/AntorDey/My-Leetcode-problems-slution./tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
