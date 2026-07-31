@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/AntorDey/My-Leetcode-problems-slution./tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AntorDey/My-Leetcode-problems-slution./tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/AntorDey/My-Leetcode-problems-slution./tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/AntorDey/My-Leetcode-problems-slution./tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/AntorDey/My-Leetcode-problems-slution./tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/AntorDey/My-Leetcode-problems-slution./tree/master/0485-max-consecutive-ones) |
@@ -37,11 +38,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AntorDey/My-Leetcode-problems-slution./tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/AntorDey/My-Leetcode-problems-slution./tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/AntorDey/My-Leetcode-problems-slution./tree/master/0189-rotate-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/AntorDey/My-Leetcode-problems-slution./tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/AntorDey/My-Leetcode-problems-slution./tree/master/0075-sort-colors) |
 | [0912-sort-an-array](https://github.com/AntorDey/My-Leetcode-problems-slution./tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/AntorDey/My-Leetcode-problems-slution./tree/master/0977-squares-of-a-sorted-array) |
 ## Recursion
