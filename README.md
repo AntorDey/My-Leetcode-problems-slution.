@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/AntorDey/My-Leetcode-problems-slution./tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/AntorDey/My-Leetcode-problems-slution./tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/AntorDey/My-Leetcode-problems-slution./tree/master/0485-max-consecutive-ones) |
+| [0912-sort-an-array](https://github.com/AntorDey/My-Leetcode-problems-slution./tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/AntorDey/My-Leetcode-problems-slution./tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/AntorDey/My-Leetcode-problems-slution./tree/master/1480-running-sum-of-1d-array) |
 ## Prefix Sum
@@ -41,9 +42,34 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/AntorDey/My-Leetcode-problems-slution./tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/AntorDey/My-Leetcode-problems-slution./tree/master/0977-squares-of-a-sorted-array) |
 ## Recursion
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/AntorDey/My-Leetcode-problems-slution./tree/master/0231-power-of-two) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/AntorDey/My-Leetcode-problems-slution./tree/master/0912-sort-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/AntorDey/My-Leetcode-problems-slution./tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/AntorDey/My-Leetcode-problems-slution./tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/AntorDey/My-Leetcode-problems-slution./tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/AntorDey/My-Leetcode-problems-slution./tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/AntorDey/My-Leetcode-problems-slution./tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
