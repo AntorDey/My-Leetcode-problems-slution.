@@ -1,17 +1,13 @@
 class Solution {
 public:
-    int removeDuplicates(vector<int>& nums) {
-        if (nums.empty()) return 0;
-
-        int slow = 0;  // last unique element's index
-
-        for (int fast = 1; fast < nums.size(); fast++) {
-            if (nums[fast] != nums[slow]) {
-                slow++;
-                nums[slow] = nums[fast];
-            }
+    int removeDuplicates(vector<int>& v) {
+       int n = v.size(), k = 1;
+       for(int i=0; i<n; i++){
+        if(v[k-1] != v[i]){
+            v[k]=v[i];
+            k++;
         }
-
-        return slow + 1;
+    }  
+    return k;
     }
-};
+};    
