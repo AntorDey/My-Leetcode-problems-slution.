@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/AntorDey/My-Leetcode-problems-slution./tree/master/0075-sort-colors) |
 | [0912-sort-an-array](https://github.com/AntorDey/My-Leetcode-problems-slution./tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/AntorDey/My-Leetcode-problems-slution./tree/master/0977-squares-of-a-sorted-array) |
+| [1859-sorting-the-sentence](https://github.com/AntorDey/My-Leetcode-problems-slution./tree/master/1859-sorting-the-sentence) |
 ## Recursion
 |  |
 | ------- |
@@ -99,8 +100,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/AntorDey/My-Leetcode-problems-slution./tree/master/0409-longest-palindrome) |
+| [1859-sorting-the-sentence](https://github.com/AntorDey/My-Leetcode-problems-slution./tree/master/1859-sorting-the-sentence) |
 ## Greedy
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/AntorDey/My-Leetcode-problems-slution./tree/master/0409-longest-palindrome) |
+## Bubble Sort
+|  |
+| ------- |
+| [1859-sorting-the-sentence](https://github.com/AntorDey/My-Leetcode-problems-slution./tree/master/1859-sorting-the-sentence) |
 <!---LeetCode Topics End-->
