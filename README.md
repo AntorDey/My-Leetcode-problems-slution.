@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AntorDey/My-Leetcode-problems-slution./tree/master/0014-longest-common-prefix) |
 | [0409-longest-palindrome](https://github.com/AntorDey/My-Leetcode-problems-slution./tree/master/0409-longest-palindrome) |
+| [0796-rotate-string](https://github.com/AntorDey/My-Leetcode-problems-slution./tree/master/0796-rotate-string) |
 | [1859-sorting-the-sentence](https://github.com/AntorDey/My-Leetcode-problems-slution./tree/master/1859-sorting-the-sentence) |
 | [1903-largest-odd-number-in-string](https://github.com/AntorDey/My-Leetcode-problems-slution./tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
@@ -118,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AntorDey/My-Leetcode-problems-slution./tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/AntorDey/My-Leetcode-problems-slution./tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
