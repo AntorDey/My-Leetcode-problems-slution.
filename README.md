@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AntorDey/My-Leetcode-problems-slution./tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/AntorDey/My-Leetcode-problems-slution./tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AntorDey/My-Leetcode-problems-slution./tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/AntorDey/My-Leetcode-problems-slution./tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/AntorDey/My-Leetcode-problems-slution./tree/master/0136-single-number) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/AntorDey/My-Leetcode-problems-slution./tree/master/0014-longest-common-prefix) |
 | [0409-longest-palindrome](https://github.com/AntorDey/My-Leetcode-problems-slution./tree/master/0409-longest-palindrome) |
 | [1859-sorting-the-sentence](https://github.com/AntorDey/My-Leetcode-problems-slution./tree/master/1859-sorting-the-sentence) |
 | [1903-largest-odd-number-in-string](https://github.com/AntorDey/My-Leetcode-problems-slution./tree/master/1903-largest-odd-number-in-string) |
@@ -112,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1859-sorting-the-sentence](https://github.com/AntorDey/My-Leetcode-problems-slution./tree/master/1859-sorting-the-sentence) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/AntorDey/My-Leetcode-problems-slution./tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
