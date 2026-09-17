@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AntorDey/My-Leetcode-problems-slution./tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/AntorDey/My-Leetcode-problems-slution./tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/AntorDey/My-Leetcode-problems-slution./tree/master/0409-longest-palindrome) |
 ## Math
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/AntorDey/My-Leetcode-problems-slution./tree/master/0075-sort-colors) |
+| [0242-valid-anagram](https://github.com/AntorDey/My-Leetcode-problems-slution./tree/master/0242-valid-anagram) |
 | [0912-sort-an-array](https://github.com/AntorDey/My-Leetcode-problems-slution./tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/AntorDey/My-Leetcode-problems-slution./tree/master/0977-squares-of-a-sorted-array) |
 | [1859-sorting-the-sentence](https://github.com/AntorDey/My-Leetcode-problems-slution./tree/master/1859-sorting-the-sentence) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AntorDey/My-Leetcode-problems-slution./tree/master/0014-longest-common-prefix) |
+| [0242-valid-anagram](https://github.com/AntorDey/My-Leetcode-problems-slution./tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/AntorDey/My-Leetcode-problems-slution./tree/master/0409-longest-palindrome) |
 | [0796-rotate-string](https://github.com/AntorDey/My-Leetcode-problems-slution./tree/master/0796-rotate-string) |
 | [1859-sorting-the-sentence](https://github.com/AntorDey/My-Leetcode-problems-slution./tree/master/1859-sorting-the-sentence) |
