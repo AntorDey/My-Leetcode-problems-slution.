@@ -23,20 +23,21 @@
 class Solution {
 public:
     string countAndSay(int n) {
-        string s = "1";
-
-        while (--n > 0) {
-            string next;
-            for (int i = 0; i < s.size();) {
-                int j = i;
-                while (j < s.size() && s[j] == s[i]) j++;  // find the end of the group
-
-                next += char('0' + (j - i));  // count (never exceeds 3 in this sequence)
-                next += s[i];                 // digit
-                i = j;                        // jump to the next group
-            }
-            s = next;
+        if(n==1)
+        return "1";
+        string say = countAndSay(n-1);
+        string result = "";
+        for(int i = 0; i< say.size(); i++){
+            char ch = say[i];
+            int count = 1;
+            while (i<say.size()-1 && say[i] == say[i+1]){
+            count ++;
+            i++;
         }
-        return s;
+        result += to_string(count)+string(1,ch);
     }
+    return result;
+  }
 };
+
+        
