@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/AntorDey/My-Leetcode-problems-slution./tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/AntorDey/My-Leetcode-problems-slution./tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/AntorDey/My-Leetcode-problems-slution./tree/master/0485-max-consecutive-ones) |
+| [0905-sort-array-by-parity](https://github.com/AntorDey/My-Leetcode-problems-slution./tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/AntorDey/My-Leetcode-problems-slution./tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/AntorDey/My-Leetcode-problems-slution./tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/AntorDey/My-Leetcode-problems-slution./tree/master/1480-running-sum-of-1d-array) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/AntorDey/My-Leetcode-problems-slution./tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/AntorDey/My-Leetcode-problems-slution./tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/AntorDey/My-Leetcode-problems-slution./tree/master/0287-find-the-duplicate-number) |
+| [0905-sort-array-by-parity](https://github.com/AntorDey/My-Leetcode-problems-slution./tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/AntorDey/My-Leetcode-problems-slution./tree/master/0977-squares-of-a-sorted-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/AntorDey/My-Leetcode-problems-slution./tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Sorting
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/AntorDey/My-Leetcode-problems-slution./tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/AntorDey/My-Leetcode-problems-slution./tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/AntorDey/My-Leetcode-problems-slution./tree/master/0242-valid-anagram) |
+| [0905-sort-array-by-parity](https://github.com/AntorDey/My-Leetcode-problems-slution./tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/AntorDey/My-Leetcode-problems-slution./tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/AntorDey/My-Leetcode-problems-slution./tree/master/0977-squares-of-a-sorted-array) |
 | [1859-sorting-the-sentence](https://github.com/AntorDey/My-Leetcode-problems-slution./tree/master/1859-sorting-the-sentence) |
